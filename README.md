@@ -4,9 +4,9 @@
 This project analyzes the relationship between the Japanese yen exchange rate and inbound tourism demand in Japan using official statistical data.
 
 ## Data Sources
-- JNTO (Foreign Visitors to Japan, Tourism Consumption)
-foreign_visitors_yearly.csv: https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition
-expenditure_per_foreign_tourist.csv: https://statistics.jnto.go.jp/graph/#graph--inbound--consumption--transition
+#### JNTO (Foreign Visitors to Japan, Tourism Consumption)
+- foreign_visitors_yearly.csv: https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition
+- expenditure_per_foreign_tourist.csv: https://statistics.jnto.go.jp/graph/#graph--inbound--consumption--transition
 
 - Bank of Japan (Exchange Rate)
 
