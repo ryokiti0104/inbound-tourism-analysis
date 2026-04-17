@@ -19,7 +19,8 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 
 ## Visualization
 ###
-###
+### USD/JPY vs REER over Time
+![USD/JPY vs REER over Time](images/USD:JPY_vs_REER_over_Time)
 ### Consumption Amount by Year
 ![Consumption Amount by Year](images/Consumption_Amount_by_Year.png)
 Consumption per tourists shows a general upward trend over time, with a temporary dip after 2015 followed by a strong increase toward 2024.
