@@ -2,7 +2,7 @@
 ### Exchange Rates and Inbound Tourism in Japan: Effects on Visitor Arrivals and Spending
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-6A5ACD?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4B4B4B?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## Overview
 This project analyzes the relationship between the Japanese yen exchange rate and inbound tourism demand in Japan using official statistical data.
