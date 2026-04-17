@@ -23,6 +23,7 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 ## Visualization
 ### Visitor Arrivals by Year（Including COVID period）
 ![Visitor Arrivals by Year](Visitor_Arrivals_by_Year.png)
+Inbound tourism to Japan shows a strong long-term upward trend, with a sharp collapse during the COVID-19 period followed by a rapid recovery to record-high levels.
 
 ### USD/JPY vs REER over Time
 ![USD/JPY vs REER over Time](images/USD:JPY_vs_REER_over_Time.png)
