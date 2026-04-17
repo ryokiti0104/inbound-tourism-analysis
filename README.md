@@ -27,6 +27,7 @@ Inbound tourism to Japan shows a strong long-term upward trend, with a sharp col
 
 ### USD/JPY vs REER over Time
 ![USD/JPY vs REER over Time](images/USD:JPY_vs_REER_over_Time.png)
+USD/JPY and REER exhibit a clear inverse relationship over time, indicating that a weaker yen in nominal terms is generally accompanied by a decline in its real effective value.
 
 ### Consumption Amount by Year
 ![Consumption Amount by Year](images/Consumption_Amount_by_Year.png)
@@ -37,12 +38,11 @@ Data for the COVID-19 period (2020–2022) are not included.
 
 ### Exchange Rate vs Visitor Arrivals
 ![Exchange vs Visitors](images/exchange_vs_visitors.png)
-
+The scatter plot suggests a positive relationship between the exchange rate and inbound visitor arrivals, indicating that a weaker yen is associated with higher tourism demand.
 
 ### Visitor Arrivals vs Tourism Consumption
 ![Visitor vs Consumption](images/visitors_vs_consumption.png)
-
-
+The plot indicates a positive relationship between visitor arrivals and tourism consumption.
 
 ## Regression Analysis
 An OLS regression was conducted to examine the relationship between the exchange rate (JPY/USD) and inbound visitor arrivals.
