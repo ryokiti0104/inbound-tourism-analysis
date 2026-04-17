@@ -1,4 +1,5 @@
-# Exchange Rates and Inbound Tourism in Japan: Effects on Visitor Arrivals and Spending
+# Inbound Tourism Analysis
+### Exchange Rates and Inbound Tourism in Japan: Effects on Visitor Arrivals and Spending
 
 ## Overview
 This project analyzes the relationship between the Japanese yen exchange rate and inbound tourism demand in Japan using official statistical data.
