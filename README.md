@@ -11,12 +11,6 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 - exchange_rate_monthly.csv: https://www.stat-search.boj.or.jp/ssi/cgi-bin/famecgi2?cgi=$graphwnd
 ##### Note: Data for 2020–2022 were excluded because tourism consumption data were not available for those years due to the COVID-19 pandemic.
 
-## Methods
-- Data preprocessing with Python (pandas)
-- Correlation analysis
-- Visualization
-- Regression analysis
-
 ## Key Findings
 - The exchange rate shows a relatively strong correlation with inbound tourism.
 - Visitor arrivals and tourism consumption are moderately correlated.
