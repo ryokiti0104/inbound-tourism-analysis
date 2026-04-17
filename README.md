@@ -31,6 +31,13 @@ However, due to the small sample size and external shocks such as COVID-19, the 
 ### Visitor Arrivals vs Tourism Consumption
 ![Visitor vs Consumption](images/visitors_vs_consumption.png)
 
+
+Analysis (one sentence):
+Tourism consumption per visitor shows a general upward trend over time, with a temporary dip after 2015 followed by a strong increase toward 2024.
+
+Note on missing data:
+Data for the COVID-19 period (2020–2022) are not included, which may limit the interpretation of short-term fluctuations during that time.
+
 ## Conclusion
 The analysis suggests that exchange rates have a statistically significant relationship with inbound tourism demand in Japan.
 A weaker yen is associated with higher visitor arrivals.
