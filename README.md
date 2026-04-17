@@ -22,11 +22,10 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 ###
 ### Consumption Amount by Year
 ![Consumption Amount by Year](Consumption_Amount_by_Year.png)
-Analysis (one sentence):
-Tourism consumption per visitor shows a general upward trend over time, with a temporary dip after 2015 followed by a strong increase toward 2024.
+Consumption per tourists shows a general upward trend over time, with a temporary dip after 2015 followed by a strong increase toward 2024.
 
 Note on missing data:
-Data for the COVID-19 period (2020–2022) are not included, which may limit the interpretation of short-term fluctuations during that time.
+Data for the COVID-19 period (2020–2022) are not included.
 
 ### Exchange Rate vs Visitor Arrivals
 ![Exchange vs Visitors](images/exchange_vs_visitors.png)
