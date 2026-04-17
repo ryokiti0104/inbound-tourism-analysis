@@ -18,9 +18,12 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 - The weaker the yen becomes, the lower the real effective exchange rate falls, and as Japan’s “real purchasing power” declines, Japanese goods and services become relatively cheaper over time; from a foreigner’s perspective, “Japan becomes cheaper.”
 
 ## Visualization
-###
+### Visitor Arrivals by Year（Including COVID period）
+![Visitor Arrivals by Year](Visitor_Arrivals_by_Year.png)
+
 ### USD/JPY vs REER over Time
 ![USD/JPY vs REER over Time](images/USD:JPY_vs_REER_over_Time.png)
+
 ### Consumption Amount by Year
 ![Consumption Amount by Year](images/Consumption_Amount_by_Year.png)
 Consumption per tourists shows a general upward trend over time, with a temporary dip after 2015 followed by a strong increase toward 2024.
