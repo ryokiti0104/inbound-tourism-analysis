@@ -27,7 +27,7 @@ Inbound tourism to Japan shows a strong long-term upward trend, with a sharp col
 
 ### USD/JPY vs REER over Time
 ![USD/JPY vs REER over Time](images/USD:JPY_vs_REER_over_Time.png)
-USD/JPY and REER exhibit a clear inverse relationship over time, indicating that a weaker yen in nominal terms is generally accompanied by a decline in its real effective value.
+USD/JPY and REER exhibit a clear inverse relationship over time, suggesting that periods of nominal yen depreciation often coincide with a lower real effective exchange rate, reflecting changes in Japan’s relative price competitiveness rather than nominal exchange rates alone.
 
 ### Consumption Amount by Year
 ![Consumption Amount by Year](images/Consumption_Amount_by_Year.png)
