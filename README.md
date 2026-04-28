@@ -9,10 +9,10 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 
 ## Data Sources
 #### JNTO (Foreign Visitors to Japan, Tourism Consumption)
-- foreign_visitors_yearly.csv: https://statistics.jnto.go.jp/graph
-- expenditure_per_foreign_tourist.csv: https://statistics.jnto.go.jp/graph
+- foreign_visitors_yearly.csv:[ https://statistics.jnto.go.jp/graph](https://statistics.jnto.go.jp/graph/)
+- expenditure_per_foreign_tourist.csv:[ https://statistics.jnto.go.jp/graph](https://statistics.jnto.go.jp/graph/)
 #### Bank of Japan (Exchange Rate)
-- exchange_rate_monthly.csv: [https://www.stat-search.boj.or.jp/ssi/cgi-bin](https://www.stat-search.boj.or.jp/)
+- exchange_rate_monthly.csv:[https://www.stat-search.boj.or.jp/ssi/cgi-bin](https://www.stat-search.boj.or.jp/)
 ##### Note: Data for 2020–2022 were excluded because tourism consumption data were not available for those years due to the COVID-19 pandemic.
 
 ## Key Findings
